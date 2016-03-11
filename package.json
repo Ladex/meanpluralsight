@@ -1,0 +1,26 @@
+{
+  "name": "multivision",
+  "version": "1.0.0",
+  "description": "Mean application development for refreshing",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ladex/meanpluralsight.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Ladi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ladex/meanpluralsight/issues"
+  },
+  "homepage": "https://github.com/Ladex/meanpluralsight#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  }
+}
