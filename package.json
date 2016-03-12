@@ -9,7 +9,7 @@
   "engine":{
     "node":"4.3.x",
     "npm":"2.14.x"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ladex/meanpluralsight.git"
